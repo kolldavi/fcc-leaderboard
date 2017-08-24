@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "fccLeaderBoard",
+  "name": "Freecodecamp LeaderBoard",
   "icons": [
     {
       "src": "favicon.ico",
