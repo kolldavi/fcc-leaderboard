@@ -1,4 +1,4 @@
-.header{
+.header {
   height: 50px;
   width: 100%;
   background-color: green;
@@ -6,27 +6,39 @@
 .App-intro {
   font-size: large;
 }
-.logo{
+.logo {
   margin-top: 10px;
 }
 
 @keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
 }
 
-.userImg{
+.userImg {
   width: 40px;
-border: 2px solid #006400;
-border-radius: 4px;
-max-height: 40px;
-margin-right: 4px;
+  border: 2px solid #006400;
+  border-radius: 4px;
+  max-height: 40px;
+  margin-right: 4px;
 }
-.user{
+.username {
+  padding-left: 50px;
+  text-align: left;
+}
 
+tbody:nth-child(even) {
+  background-color: #f2f2f2;
 }
-.leaderboard-header{
-margin-left:  10%;
-text-align: center;
-width: 80%;
+.mainTable {
+  width: 100%;
+}
+.leaderboard-header {
+  margin-left: 10%;
+  text-align: center;
+  width: 80%;
 }
