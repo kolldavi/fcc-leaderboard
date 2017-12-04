@@ -51,12 +51,14 @@ class App extends Component {
                   <th>#</th>
                   <th>Camper Name</th>
                   <th>
-                    <button onClick={this.setRecentTime}>
+                    <button className="btn" onClick={this.setRecentTime}>
                       Points In Past 30 Days
                     </button>
                   </th>
                   <th>
-                    <button onClick={this.setAllTime}>All Time Points</button>
+                    <button className="btn" onClick={this.setAllTime}>
+                      All Time Points
+                    </button>
                   </th>
                 </tr>
               </tbody>
