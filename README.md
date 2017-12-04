@@ -1,7 +1,7 @@
 #Free Code Camp LeaderBoard App
 ## This project can be viewed here
 
-<img src="https://github.com/kolldavi/fcc-leaderboard/blob/master/images/ScreenShotimg.png?raw=true" width="300" height="200" />
+<img src="https://raw.githubusercontent.com/kolldavi/fcc-leaderboard/master/ScreenShot.png?raw=true" />
 
 https://codepen.io/kolldavi/full/gXqVaP/
 
